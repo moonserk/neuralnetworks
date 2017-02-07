@@ -1,2 +1,2 @@
-# neuralnnetworks
+# neuralnetworks
 stepik.org course
